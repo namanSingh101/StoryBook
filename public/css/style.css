@@ -1,0 +1,16 @@
+p{
+    margin: 10px 0 !important;
+}
+.login-conatiner{
+    width:400px;
+    margin-top:50px;
+    text-align: center;
+}
+
+.fa-small{
+    font-size: 16px !important;
+}
+
+#delete-form{
+    margin: 10px;
+}
